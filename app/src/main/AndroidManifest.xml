@@ -12,7 +12,7 @@
         android:theme="@style/Theme.LearnJetpackCompose"
         tools:targetApi="31">
         <activity
-            android:name=".SwipeableImageSliderComposeDemo"
+            android:name=".LazyStaggeredGridDemo"
             android:exported="true"
             android:label="@string/title_activity_main"
             android:theme="@style/Theme.LearnJetpackCompose">
